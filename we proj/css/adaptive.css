@@ -1,0 +1,8 @@
+@media only screen and (max-width: 1250px) {
+	.tv_series{
+		width: 800px;
+	}
+	.gallery{
+		width: 50%;
+	}
+}
